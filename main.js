@@ -1,6 +1,6 @@
 let w, h, canvas, ctx;
 
-const fireworksMax = 15;
+const fireworksMax = 5;
 const fireworkChance = 1;
 
 let fireworks = [];
